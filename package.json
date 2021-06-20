@@ -2,6 +2,8 @@
 	"name": "jtechinc",
 	"version": "0.1.0",
 	"private": true,
+	"author": "JIN KIM <jin7604@gmail.com> (https://github.com/texas000/",
+	"license": "MIT",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
